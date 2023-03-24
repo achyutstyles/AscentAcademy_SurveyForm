@@ -1,0 +1,42 @@
+body {
+    font-size: 15pt;
+}
+form {
+    background-color: #63eb15;
+}
+.h2
+{
+    text-align: center;
+    color: #8a7575;
+    background-color: #15630c;
+    padding-left: 30px;
+}
+.h4
+{
+    text-align: center;
+}
+.input
+{
+    align-items: left;
+    background-color: #3f6e24;
+    padding-left: 30px;
+}
+.list
+ {
+    list-style-type: none;
+ }
+ .label
+ {
+    padding-bottom: 15px;
+    padding-top: 15px;
+ }
+ .text
+ {
+    padding-top: 10px;
+ }
+ .submit
+ {
+    align-items: center;
+    size: 50px;
+    color: burlywood;
+ }
